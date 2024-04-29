@@ -1,0 +1,12 @@
+.env
+.vscode
+__pycache__
+misc
+papers
+trainer/saved_models
+notebooks/img_features
+notebooks/llama
+notebooks/serving_text_models
+user_interface/node_modules
+user_interface/app/data
+TODO

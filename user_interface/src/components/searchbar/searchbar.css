@@ -1,0 +1,17 @@
+.search-bar__container {
+  display: flex;
+  justify-content: center;
+}
+
+.search-bar__form {
+  display: flex;
+  padding: 1rem;
+}
+
+.search-bar__query-input {
+  margin-right: 1rem;
+}
+
+.search-bar__search-button {
+  cursor: pointer;
+}
